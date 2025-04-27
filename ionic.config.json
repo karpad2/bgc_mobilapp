@@ -1,0 +1,7 @@
+{
+  "name": "Board Game Café",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
